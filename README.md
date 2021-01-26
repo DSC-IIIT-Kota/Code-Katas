@@ -5,6 +5,7 @@
 * Tree 
 * Graph
 * Dynamic Programming
+* Disjoint Set Union 
 
 ## Contributing
 
